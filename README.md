@@ -1,6 +1,6 @@
 # HKAGE - E2INO002C - Server
 
-## A brief introduction of this program (for those who do not know about it)
+## A brief introduction of this program (for those who are interested in it)
 
 > This programme series is designed to enhance students’ knowledge and interest in Artificial Intelligence (AI)
 > and Internet of Things (IoT) through applying design thinking process to make smart living products.
@@ -43,12 +43,42 @@ signals, mainly:
 - `start_face`, `start_face`
 
   Starts / Stops the face detection when the music plays / stops.
+
 - `get_plans`
 
   Gets a list of the plans to be displayed in the "Plan" dialog in the client
+
 - `save_plans`
 
   Saves the plans configured in the "Plan" dialog
+
 - `start_barcode`, `stop_barcode`
 
   Starts / Stops the barcode detection.
+
+## Get Started
+
+To run this part of the project, you will need to:
+
+1. Install [Python](https://python.org)
+2. Install pip (if your Python installer did not add a `pip` command)
+3. Clone the repository
+   In the terminal window (if you are running macOS or Linux) or the Command Prompt (if you are running Windows), type:
+   ```shell
+   git clone https://github.com/ZCG-coder/e2ino002c-server.git
+   ```
+4. Install dependencies
+   In the terminal window (if you are running macOS or Linux) or the Command Prompt (if you are running Windows), type:
+   ```shell
+   python3 -m pip install -r requirements.txt
+   ```
+5. Run the server
+   In the terminal window (if you are running macOS or Linux) or the Command Prompt (if you are running Windows), type:
+   ```shell
+   python3 server.py
+   ```
+6. Run the recognition script
+   In the terminal window (if you are running macOS or Linux) or the Command Prompt (if you are running Windows), type:
+   ```shell
+   python3 recognition.py
+   ```
