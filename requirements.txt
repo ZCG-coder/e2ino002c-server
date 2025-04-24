@@ -6,7 +6,7 @@ dnspython==2.6.1
 eventlet==0.35.2
 fonttools==4.43.0
 greenlet==3.0.3
-h11==0.14.0
+h11==0.16.0
 importlib-metadata==6.7.0
 kiwisolver==1.4.5
 matplotlib==3.5.3
