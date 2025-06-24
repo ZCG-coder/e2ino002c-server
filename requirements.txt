@@ -17,7 +17,7 @@ opencv-contrib-python==4.9.0.80
 opencv-python==4.9.0.80
 packaging==23.2
 Pillow==10.3.0
-protobuf==3.20.2
+protobuf==4.25.8
 pyparsing==3.1.1
 python-dateutil==2.8.2
 python-engineio==4.9.0
