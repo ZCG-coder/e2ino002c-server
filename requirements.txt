@@ -3,7 +3,7 @@ attrs==23.2.0
 bidict==0.22.1
 cycler==0.11.0
 dnspython==2.6.1
-eventlet==0.35.2
+eventlet==0.40.3
 fonttools==4.43.0
 greenlet==3.0.3
 h11==0.16.0
