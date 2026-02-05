@@ -4,7 +4,7 @@ bidict==0.22.1
 cycler==0.11.0
 dnspython==2.6.1
 eventlet==0.40.3
-fonttools==4.43.0
+fonttools==4.60.2
 greenlet==3.0.3
 h11==0.16.0
 importlib-metadata==6.7.0
@@ -17,7 +17,7 @@ opencv-contrib-python==4.9.0.80
 opencv-python==4.9.0.80
 packaging==23.2
 Pillow==10.3.0
-protobuf==4.25.8
+protobuf==5.29.6
 pyparsing==3.1.1
 python-dateutil==2.8.2
 python-engineio==4.9.0
